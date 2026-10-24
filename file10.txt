@@ -1,3 +1,4 @@
 Apaguei a primeira linha e escrevi esta!!
 fiz uma alteracao neste ficheiro file10
 Alteracoes efetuadas no branch NovaFeature
+ALTERACAO NA BRANCH MASTER
